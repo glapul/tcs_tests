@@ -3,3 +3,4 @@
 !*.in
 !*.out
 !*Test.java
+!*_test.cpp
